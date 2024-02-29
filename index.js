@@ -1,3 +1,3 @@
 function myFunction() {
-    document.getElementById("wall").style.backgroundImage = "url(background.jpeg)";
+    document.getElementById("wall").style.backgroundImage = "url(gallery.jpeg)";
  }
